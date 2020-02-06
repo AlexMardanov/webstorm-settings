@@ -1,3 +1,6 @@
 <list display="ESLint Fix" description="ESLint Fix">
-  <action id="com.eslint" />
+  <action id="Javascript.Linters.EsLint.Fix" />
+  <action id="QuickList.$Separator$" />
+  <action id="EslintImportCodeStyle" />
+  <action id="ShowIntentionActions" />
 </list>
